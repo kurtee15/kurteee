@@ -1,0 +1,25 @@
+<center>
+<img src="background.jpg" witdh="400" height="220">
+</center>
+
+<body>
+
+<h2>
+
+<center><b>My First HTML</b></center>
+
+</h2>
+
+<br>
+
+<p>
+
+Hi! <i>This</i> is my First time trying the code in the Html file using the website!
+
+</p>
+
+<a href="none.html">Click me!</a>
+
+</body>
+
+</html>
